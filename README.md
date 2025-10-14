@@ -1,4 +1,4 @@
-# alt-ime-ahk
+# enhanced-keyboard-ahk
 
 ## 概要
 
@@ -74,7 +74,7 @@ regedit /s CapsToF13.reg
 ## ファイル構成
 
 ```text
-alt-ime-ahk/
+enhanced-keyboard-ahk/
 ├── main.ahk                           # メインスクリプト（統合版）
 ├── IME.ahk                            # IME制御ライブラリ（必要）
 ├── CapsToF13.reg                      # CapsLockをF13にマッピングするレジストリファイル
