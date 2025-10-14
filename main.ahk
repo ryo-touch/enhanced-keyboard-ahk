@@ -168,7 +168,8 @@ F13 & Z::Send, ^z
 F13 & W::Send, ^w
 
 ; Caps + スペースでIME切り替え
-F13 & Space::Send, {vkF3sc029}
+; 左右の alt キーに慣れるため効かないようにしておく
+; F13 & Space::Send, {vkF3sc029}
 
 ;====================================
 ; Dell Latitude 7340 キー修正
